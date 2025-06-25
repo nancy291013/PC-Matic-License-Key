@@ -4,7 +4,7 @@ How to Activate PC Matic License Key?
 
 PC Matic is an all-in-one antivirus and performance optimization software designed to protect your device against malware, ransomware, and other cyber threats. Whether you're a first-time user or reinstalling the software, activating your license key is an essential step to ensure you gain full access to the premium features.
 
-.. image:: https://malwarebytes-activation-code.readthedocs.io/en/latest/_images/click-activate-in.png
+.. image:: click-activate.png
    :alt: My Project Logo
    :width: 400px
    :align: center
